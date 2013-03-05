@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fix My Street</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="category">
+        <item >პარკები</item>
+        <item >ვანდალიზმი</item>
+        <item >ტრანსპორტის ან ქვეითების უსაფრთხოება</item>
+        <item >კანალიზაციის დაზიანება</item>
+        <item >ორმო</item>
+        <item >თავაზდილი ლუქი</item>
+        <item >ქუჩის დასუფთავება</item>
+        <item >საგზაო ნიშნები</item>
+        <item >ხეები</item>
+        <item >მიტოვებული ავტომობილი</item>
+        <item >საშიშად გახსნილი ელ..სადენები</item>
+        <item >მჟონავი წყლის მილები</item>
+        <item >უკანონო ნაგავსაყრელი</item>
+        <item >სხვა</item>
+    </string-array>
+        <string name="title">თემა</string>
+        <string name="address">მისამართი</string>
+        <string name="send">გაგზავნა</string>
+        <string name="pic">ფოტო</string>
+        <string name="search">ძებნა</string>
+        <string name="details">დეტალები</string>
+        <string name="name_starred">სახელი</string>
+        <string name="name">სახელი</string>
+        <string name="mail_starred">ელ.ფოსტა</string>
+        <string name="mail">mail</string>
+        <string name="tel_starred">ტელეფონი</string>
+        <string name="tel">ტელ</string>
+
+</resources>
